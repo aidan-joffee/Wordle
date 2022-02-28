@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Wordle</string>
+    <string-array name="randomWords">
+        <item>chili</item>
+        <item>worry</item>
+        <item>swing</item>
+        <item>weary</item>
+        <item>snuff</item>
+    </string-array>
 </resources>
